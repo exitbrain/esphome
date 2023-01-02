@@ -12,7 +12,7 @@ namespace esphome {
 namespace pipsolar {
 
 enum ENUMPollingCommand {
-  POLLING_QPIRI = 0,
+  POLLING_QPIRI= 0,
   POLLING_QPIGS = 1,
   POLLING_QMOD = 2,
   POLLING_QFLAG = 3,
